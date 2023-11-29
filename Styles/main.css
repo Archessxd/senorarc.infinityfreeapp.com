@@ -1,0 +1,30 @@
+.container{
+    margin-left:auto;
+    margin-right:auto;
+    width:1000px;
+    height:800px;
+    background-color: red;
+}
+.header{
+    float: left;
+    width: 1000px;
+    height: 100px;
+}
+.sidebar{ 
+    width: 100px;
+    height: 800px;
+    background-color: blue;
+    float: left;
+}
+.content{
+    float: left;
+    width: 900px;
+    height: 800px;
+    background-color: orange;
+}
+.footer{
+    float: left;
+    width: 1000px;
+    height: 100px;
+    background-color: yellow;
+}
