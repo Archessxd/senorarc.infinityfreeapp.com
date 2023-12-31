@@ -1,4 +1,53 @@
-body{
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+/* open sans */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+/* montserrat */
+
+.navbar
+{
+  font-family: 'Montserrat', sans-serif;
+}
+
+body
+{
+  font-size: 1.2rem;
   /* background-color: blue; */
   background: linear-gradient(to left,blue,rgb(0, 0, 56));
+}
+
+.about-me
+{
+  border-radius: 20px;
+  width: 70%;
+  /* height: 500px; */
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  background-color: rgb(50, 0, 255);
+  color:white;
+  font-family: 'Open Sans', sans-serif;
+  text-align: justify;
+}
+
+.about-img
+{
+  margin-top: 1%;
+  text-align: center;
+}
+
+.about-me p{
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.about-me-resim-alti-div
+{
+  text-align: center;
+  
+}
+
+p
+{
+  color: white;
 }
