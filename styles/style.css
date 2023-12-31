@@ -36,6 +36,18 @@ body
   text-align: center;
 }
 
+.about-me a i
+{
+  opacity: 1;
+  font-size: 100px;
+  margin-left: 5px;
+}
+
+.about-me-text-div
+{
+  padding-top: 20px;
+}
+
 .about-me p{
   padding-right: 10px;
   padding-left: 10px;
