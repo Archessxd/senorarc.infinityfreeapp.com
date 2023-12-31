@@ -7,6 +7,12 @@
   padding-top: 10px;
 }
 
+.projects-bg-div h1
+{
+  color: white;
+  margin-bottom: 5%;
+}
+
 .projects-bg-div p{
   color: black;
   font-size:0.8rem;
