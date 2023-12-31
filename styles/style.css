@@ -30,6 +30,11 @@ body
   text-align: justify;
 }
 
+.about-me-text-div h1
+{
+  text-align: center;
+}
+
 .about-img
 {
   margin-top: 10%;
