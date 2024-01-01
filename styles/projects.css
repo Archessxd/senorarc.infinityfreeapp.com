@@ -23,13 +23,13 @@
 {
   margin-top: 10px;
   height: 300px;
-  width: 18rem;
+  width: 18em;
 }
 
 @media screen and(max-width:450px) {
   .kart
   {
-    width: 10rem;
+    width: 10em;
   }
 }
 
