@@ -23,6 +23,14 @@
 {
   margin-top: 10px;
   height: 300px;
+  width: 18rem;
+}
+
+@media screen and(max-width:450px) {
+  .kart
+  {
+    width: 10rem;
+  }
 }
 
 .kart-body
